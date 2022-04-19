@@ -44,7 +44,7 @@ AFter 9th Grade Nullification
 ### Challenge Summary
 
 As evidenced by the above charts, upon invalidating the 9th grade scores, the Thomas High School scores dropped in the following
-categories (as noted above) while Average Reading scores showed improvement. 
+categories while Average Reading scores showed improvement. 
 
 % Overall Passing
 % Passing/Reading
