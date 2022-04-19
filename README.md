@@ -3,7 +3,7 @@
 
 
 ## Project Overview
-The local school board has notified school authorities that evidence has been found that shows evidence of academic dishonesty; reading and math scores for the Thomas High 9th grade appear to have been altered. As an effort to show an accurate current analysis, it has been determined that the best course of action would be to replace the math and reading scores with NaNs keeping the rest of the scores intact for the other 3 grades of the school.  Once the 9th grade scores have been nullified, a full school district analysis will be performed and reviewed.
+The local school board has notified school authorities that evidence has been found that shows evidence of academic dishonesty; reading and math scores for the Thomas High 9th grade appear to have been altered. As an effort to show an accurate current analysis, it has been determined that the best course of action would be to replace the math and reading scores with NaNs for the 9th grade while keeping the rest of the scores intact for the other 3 grades of the school.  Once the 9th grade scores have been nullified, a full school district analysis will be re-performed and reviewed.
 
 
 ### Summary
